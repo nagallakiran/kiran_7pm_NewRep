@@ -1,4 +1,6 @@
-a) Sources, connections, credentials etc.,
+Testing Purpose
+
+a) ***Data*** Sources, connections, credentials etc.,
  DimDate,FactPayments,dimlocation,dimusers,dimcourse
 
 b) Transforms
