@@ -1,0 +1,24 @@
+a) Sources, connections, credentials etc.,
+ DimDate,FactPayments,dimlocation,dimusers,dimcourse
+
+b) Transforms
+year&month concatenation
+
+c) Model Relationships
+dimdate,factpayments,dimlocation
+
+d) Model Calculations
+discountfee,averagediscountfee,total count of stud,cumulative total,
+lastyeardf,growth,growth%,taxamount
+
+e) Visuals
+Page Width/height,BG color,image,Textbox,Slicer,3 cards,table,pie
+table,matrix,linechart,map
+
+f) Report concepts
+URL Action
+bookmark 2017,2018
+RLS
+mobile view
+drill through
+
